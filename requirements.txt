@@ -1,4 +1,4 @@
 streamlit
-numpty
+numpy
 scipy
 matplotlib
